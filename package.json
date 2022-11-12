@@ -18,6 +18,6 @@
   "homepage": "https://github.com/leonixyz/my-web-components#readme",
   "dependencies": {
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   }
 }
